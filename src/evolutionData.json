@@ -1,0 +1,22 @@
+[
+  {
+    "repo": "Joeboy77/joejoy-movieApp",
+    "timestamp": 1752317154208,
+    "metrics": {
+      "maintainabilityIndex": 96,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "App.tsx"
+  },
+  {
+    "repo": "Joeboy77/joejoy-movieApp",
+    "timestamp": 1752317502334,
+    "metrics": {
+      "maintainabilityIndex": 0,
+      "complexityScore": 40,
+      "securityScore": 100
+    },
+    "file": "src/services/api.ts"
+  }
+]
