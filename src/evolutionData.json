@@ -18,5 +18,495 @@
       "securityScore": 100
     },
     "file": "src/services/api.ts"
+  },
+  {
+    "repo": "Joeboy77/drug-guard_ghana-be",
+    "timestamp": 1752319430678,
+    "metrics": {
+      "maintainabilityIndex": 89,
+      "complexityScore": 1,
+      "securityScore": 100
+    },
+    "file": "src/main/java/com/drugguard/ghana/config/DataInitializer.java"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752320447377,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752320482681,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752320567171,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752320615978,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752320756063,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752320981315,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752321402739,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752322162175,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752322547854,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752323189888,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752323249794,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752323401113,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752323510560,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752323858516,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752323939878,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752324243010,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752324310170,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752324334434,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752325050350,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752325312812,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752325527552,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752325555680,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752325685556,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752326047344,
+    "metrics": {
+      "maintainabilityIndex": 52,
+      "complexityScore": 10,
+      "securityScore": 100
+    },
+    "file": "src/pages/NonStudentTicketPage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752326173041,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752326250801,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752326370407,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752327772292,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752328100071,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752329823307,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752330336944,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752330382383,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752330467384,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752330911320,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752330958221,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752331658421,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752331948548,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752331987010,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752332069149,
+    "metrics": {
+      "maintainabilityIndex": 80,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/services/ticketService.ts"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752332137107,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752332351093,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752332779247,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752333204666,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752333259022,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752333292146,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752333531218,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752335496460,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
+  },
+  {
+    "repo": "Joeboy77/house-of-joy-fe",
+    "timestamp": 1752336102269,
+    "metrics": {
+      "maintainabilityIndex": 91,
+      "complexityScore": 0,
+      "securityScore": 100
+    },
+    "file": "src/pages/HomePage.tsx"
   }
 ]
